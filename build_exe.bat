@@ -1,0 +1,1 @@
+cmd /c pyinstaller --onefile --clean --distpath .\bin --workpath .\build .\client\client.py

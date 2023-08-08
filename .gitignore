@@ -1,0 +1,5 @@
+/build/
+/dist/
+/client.spec
+/pdf2ocr_client.egg-info/
+/venv/
